@@ -10,7 +10,7 @@ class Shoe
   end
   
   def cobble
-    puts "The shoe is as good as new."
+    puts "You shoe is as good as new."
   end
   
 end
